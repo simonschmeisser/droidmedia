@@ -8,7 +8,7 @@ Please see also https://docs.sailfishos.org/Reference/Core_Areas_and_APIs/Multim
 
 ## Building and Hacking
 
-Please check out the for the hardware adaption for your device, eg
+Please check out the hardware adaption for your device, eg
 https://docs.sailfishos.org/Develop/HW_Adaptation/Sailfish_X_Xperia_Android_11_Build_and_Flash/ for Sony Xperia 10 III.
 
 For quick iterations it is usually sufficient to compile and transfer libdroidmedia.so:
